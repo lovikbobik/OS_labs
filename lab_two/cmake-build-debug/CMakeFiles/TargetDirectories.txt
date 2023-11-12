@@ -1,0 +1,3 @@
+C:/Users/drano/OneDrive/Документы/GitHub/OS_labs/lab_two/cmake-build-debug/CMakeFiles/lab_two.dir
+C:/Users/drano/OneDrive/Документы/GitHub/OS_labs/lab_two/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/drano/OneDrive/Документы/GitHub/OS_labs/lab_two/cmake-build-debug/CMakeFiles/rebuild_cache.dir
